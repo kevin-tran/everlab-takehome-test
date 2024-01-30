@@ -33,7 +33,7 @@ diagnostics.csv
 
 diagnostic_groups.csv
 
-MP826520.oru.txt
+MP826520.oru.txt - note this has lines separated by carriage returns. Your editor may make changes that break it
 
 # Task
 
