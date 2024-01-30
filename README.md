@@ -25,15 +25,15 @@ There a 4 CSV files attached below. Each file represents a table as following
 
 ### Files
 
-[conditions.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/0e6514a3-9d16-4d17-ac14-ba8346f75b51/290899bd-9575-48c9-89fa-96eb380db5e1/conditions.csv)
+conditions.csv
 
-[diagnostic_metrics.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/0e6514a3-9d16-4d17-ac14-ba8346f75b51/40008eed-b68d-4e9b-9fef-cfabc54223a8/diagnostic_metrics.csv)
+diagnostic_metrics.csv
 
-[diagnostics.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/0e6514a3-9d16-4d17-ac14-ba8346f75b51/8b2965ac-41aa-40e5-a69e-597272148693/diagnostics.csv)
+diagnostics.csv
 
-[diagnostic_groups.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/0e6514a3-9d16-4d17-ac14-ba8346f75b51/154b5607-6b59-4157-8e54-b60bc2d1c857/diagnostic_groups.csv)
+diagnostic_groups.csv
 
-[MP826520.oru.txt](https://prod-files-secure.s3.us-west-2.amazonaws.com/0e6514a3-9d16-4d17-ac14-ba8346f75b51/79e9a822-42c4-4a3c-b66d-678f1d7b44de/MP826520.oru.txt)
+MP826520.oru.txt
 
 # Task
 
