@@ -40,6 +40,7 @@ MP826520.oru.txt - note this has lines separated by carriage returns. Your edito
 We recommend approaching this task by doing the following
 
 - Import the CSV files into a relational database with the correct schema, foreign keys, and values.
+    - Please use a docker container to host the database using docker-compose locally
 - Write an API to parse the ORU file into the individual test items and result values
 - Write code to calculate the abnormal test values given our diagnostic_metrics table and the relevant conditions
     - If there is no relevant match then don’t return the result
